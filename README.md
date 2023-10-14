@@ -4,7 +4,7 @@ Open-sourced LoRA configuration and training data for Stable Diffusion 1.5.
 
 | `f3e-1.0`                       | `dreamshaper_8`                              |
 |---------------------------------|----------------------------------------------|
-| ![2D](2.0/f3e-1.0-dd9888cc.png) | ![Realistic](2.0/dreamshaper_8-b5f7371d.png) |
+| ![2D](2.0/f3e-1.0-dd9888cc.png) | ![Realistic](2.0/dreamshaper_8-c45c9d03.png) |
 
 _Who was Bob anyway?_
 
